@@ -1,2 +1,2 @@
 # Tindog-frontend-clone
-Frontend Clone of the tindog landing page
+Frontend Clone of the tindog landing page using Bootstrap
